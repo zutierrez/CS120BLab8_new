@@ -1,8 +1,8 @@
 /*	Author: zguti001
  *  Partner(s) Name: 
  *	Lab Section:
- *	Assignment: Lab #  Exercise #
- *	Exercise Description: [optional - include for your own benefit]
+ *	Assignment: Lab #7  Exercise #1
+ *	Exercise Description: ADC conversion w/ POT
  *
  *	I acknowledge all content contained herein, excluding template or example
  *	code, is my own original work.
